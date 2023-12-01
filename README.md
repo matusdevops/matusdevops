@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div>
+	<a href="https://beacons.ai/matusdevops">
+	<br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=matusdevops&show_icons=true&theme=radical"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusdevops&hide_progress=false"/>
+   
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Matus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Matus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,11 +32,6 @@ Here are some ideas to get you started:
   <img align="center" alt="Matus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<div>
-	<a href="https://beacons.ai/matusdevops">
-	<br><img height="180em" src="https://github-readme-stats.vercel.app/api?username=matusdevops&show_icons=true&theme=radical"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matusdevops&hide_progress=false"/>
-   
-</div>
+
 
   
